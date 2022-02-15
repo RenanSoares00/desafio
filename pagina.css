@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	justify-content: space-between;
+  }
+  header {
+	  width: 100%;
+	  background-color: #1c1e26;
+	  display: flex;
+	  align-items: center;
+  }
+
+fieldset{
+	border:0;
+
+}
+body{
+	background-image: linear-gradient(to top, #5F9EA0, #ADD8E6, #708090, #5F9EA0 );
+}
+
+input, textarea, button{
+	border-radius: 5px;
+}
+
+
+

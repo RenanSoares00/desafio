@@ -1,0 +1,8 @@
+"id","data","cpf","rg","telefone","nome"
+"6","2000-08-27","213.213.213-21","12.313.213-2","(21)31321-3212","renan"
+"id","id_cliente","rua","bairro","numero","cidade","estado"
+"4","6","dasda","sdsad","sadsad","sadasd","sdasd"
+"5","6","dsadsa","sadsad","sadasd","sadasd","sadasd"
+"id","login","senha","ip","cpf","email","telefone","nome"
+"1","renan","1234",NULL,"44290556884","renansoares2000@outlook.c","1934521222",
+"4","gabriel","1234",NULL,"431.213.232","sadasdasd@asdsada.com.br","23132132132",
